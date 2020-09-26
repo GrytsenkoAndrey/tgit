@@ -1,0 +1,16 @@
+{
+    "name": "apg/test_git",
+    "description": "Test repo with Codebeat",
+    "type": "project",
+    "require": {
+        "symfony/console": "^5.1"
+    },
+    "license": "open",
+    "authors": [
+        {
+            "name": "Grytsenko Andrey",
+            "email": "andreyapg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
